@@ -11,8 +11,6 @@
 
 ## **Sign with your hand → Text appears instantly**
 
-[Installation](#-installation-and-setup) · [How to Run](#%EF%B8%8F-how-to-run-the-translator) · [Results](#%F0%9F%93%8A-model-results)
-
 ---
 
 </div>
